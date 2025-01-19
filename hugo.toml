@@ -1,4 +1,0 @@
-baseURL = 'https://blog.flyzin.dev/'
-languageCode = 'pt-BR'
-title = 'Fly Blog'
-theme = 'ananke'
