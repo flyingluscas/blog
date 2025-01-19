@@ -2,14 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.flyzin.dev/tags/cloudflare/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.flyzin.dev/posts/como-configurar-site-hugo-github-pages-cloudflare/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.flyzin.dev/tags/dns/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.flyzin.dev/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.flyzin.dev/tags/github-pages/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.flyzin.dev/tags/hugo/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.flyzin.dev/posts/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.flyzin.dev/categories/</loc>
+    <loc>https://blog.flyzin.dev/tags/site-est%C3%A1tico/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.flyzin.dev/tags/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.flyzin.dev/categories/</loc>
   </url>
 </urlset>
