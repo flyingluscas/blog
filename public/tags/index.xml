@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fly Blog</title>
-    <link>https://blog.flyzin.dev/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Fly Blog</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.flyzin.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloudflare</title>
-      <link>https://blog.flyzin.dev/tags/cloudflare/</link>
+      <link>http://localhost:1313/tags/cloudflare/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.flyzin.dev/tags/cloudflare/</guid>
+      <guid>http://localhost:1313/tags/cloudflare/</guid>
       <description></description>
     </item>
     <item>
       <title>DNS</title>
-      <link>https://blog.flyzin.dev/tags/dns/</link>
+      <link>http://localhost:1313/tags/dns/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.flyzin.dev/tags/dns/</guid>
+      <guid>http://localhost:1313/tags/dns/</guid>
       <description></description>
     </item>
     <item>
       <title>GitHub Pages</title>
-      <link>https://blog.flyzin.dev/tags/github-pages/</link>
+      <link>http://localhost:1313/tags/github-pages/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.flyzin.dev/tags/github-pages/</guid>
+      <guid>http://localhost:1313/tags/github-pages/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://blog.flyzin.dev/tags/hugo/</link>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.flyzin.dev/tags/hugo/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Site Estático</title>
-      <link>https://blog.flyzin.dev/tags/site-est%C3%A1tico/</link>
+      <link>http://localhost:1313/tags/site-est%C3%A1tico/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.flyzin.dev/tags/site-est%C3%A1tico/</guid>
+      <guid>http://localhost:1313/tags/site-est%C3%A1tico/</guid>
       <description></description>
     </item>
   </channel>
