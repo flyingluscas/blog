@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Flyzin Blog</title>
+    <link>https://blog.flyzin.dev/posts/</link>
+    <description>Recent content in Posts on Flyzin Blog</description>
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://blog.flyzin.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
